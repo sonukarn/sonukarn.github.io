@@ -1,2 +1,2 @@
 # sonukarn.github.io
-portfolio project
+portfolio projects
