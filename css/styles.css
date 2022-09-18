@@ -286,7 +286,7 @@ h3>span:hover:before,
 }
 
 .sk {
-  animation: animate 1.5s linear infinite;
+  animation: animate 1.8s linear infinite;
 }
 
 @keyframes animate {
